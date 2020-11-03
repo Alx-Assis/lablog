@@ -1,0 +1,29 @@
+.styleSidebar{
+    display: flex;
+    width: auto;
+    justify-items: center;
+   /* flex-direction: column;*/
+    flex-wrap: wrap;
+    padding: 3%;
+    margin-left: 2%;
+    background: #FFF5F5;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 7px 7px 4px rgba(0, 0, 0, 0.25);
+
+}
+.img{
+    margin-bottom: 1%;
+    position: absolute;
+    width: 157px;
+    height: 147px;
+}
+.styleSidebar section h1{
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 2%;
+} 
+p{
+    padding: 1%;
+
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 10;
+}
+
+.app{
+    /*background-image:url("./assets/background.png");*/
+    background-color: pink;
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    
+
+}
+.sec1{
+    display: flex;
+    justify-items: center;
+    /*justify-content: space-between;*/
+    flex-direction:column-reverse;
+    padding: 2%;
+    }
+
+    .space{
+        width: 10%;
+    }

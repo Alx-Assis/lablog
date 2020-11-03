@@ -1,0 +1,11 @@
+.styleNavBar{
+   justify-items: center;
+   padding:1%;
+   background-color: violet;
+}
+.styleNavBar li{
+   float: left;
+   display: block;
+   margin-right: 5%;
+   text-align: center;
+}
